@@ -2,7 +2,7 @@
 
 This repository has been created for hosting an interactive map created in QGIS with the qgis2web plugin.
 
-The online map displays project, partner and financing information on the Interreg, IPA CBC and ENI CBC financing instruments of the European Union Cohesion Policy. 
+The online map displays project, partner and financing information on the Interreg, IPA CBC and ENI CBC financing instruments of the European Union Cohesion Policy.  
 
 # Data on the map
 
@@ -21,10 +21,12 @@ Zoom in to see the numeric values of the regions on the selected layer/topic.
 
 Regardless of the selected layer you can move your mouse on the map to view full data of an individual region.  
 
+The map works best on desktop.
+
 ## Data sources
 
-The Interreg data is from the [keep.eu database](https://keep.eu).
-Statistical NUTS regions are from [Eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).
+The Interreg data is from the [keep.eu database](https://keep.eu).  
+Statistical NUTS regions are from [Eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).  
 Basemap is from [Carto CDN](https://carto.com/basemaps/), URL for the map: https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png.
 
 ## Used software
