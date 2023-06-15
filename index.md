@@ -1,9 +1,9 @@
-# Interactive map on EU's Cohesion Policy data
+# Interactive map on EU Cohesion Policy data
 
 Welcome to explore an online map displaying project, partner and financing information on the Interreg, IPA CBC and ENI CBC financing instruments of the European Union Cohesion Policy.
 The used data is from the 2014-2020 period.
 
-[![Click for a full-screen interactive map](images/interreg_map.png)](https://gispocoding.github.io/eu-interreg-map/map.html "Click for a full-screen interactive map")  
+[![Click for the full-screen interactive map](images/interreg_map.png)](https://gispocoding.github.io/eu-interreg-map/map.html "Click for the full-screen interactive map")  
 
 ## Data on the map
 
@@ -37,4 +37,4 @@ The map is licenced with the [MIT licence](https://github.com/git/git-scm.com/bl
 
 ## And finally... The Map
 
-[View map in full screen](https://gispocoding.github.io/eu-interreg-map/map.html)
+Interactive map: https://gispocoding.github.io/eu-interreg-map/map.html
