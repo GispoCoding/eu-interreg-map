@@ -24,7 +24,7 @@ There are three layers on the map displaying the following data by colour and in
 
 The Interreg data is from the [keep.eu](https://keep.eu) database.  
 Statistical NUTS regions are from [Eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).  
-Basemap is from [Carto CDN](https://carto.com/basemaps/), URL for the map: https://a.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png.
+Basemap from [Carto CDN](https://carto.com/basemaps/).
 
 ## Used software
 
