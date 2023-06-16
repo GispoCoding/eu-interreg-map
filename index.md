@@ -33,7 +33,7 @@ The map is created with QGIS and its qgis2web plugin on OpenLayers. Basemap Cart
 
 ## Licence
 
-The map is licenced with the [GNU General Public license version 2.0](https://github.com/GispoCoding/eu-interreg-map/blob/main/LICENSE). 
+The map is licenced with the [GNU General Public License version 2.0](https://github.com/GispoCoding/eu-interreg-map/blob/main/LICENSE). 
 
 ## And finally... The Map
 
