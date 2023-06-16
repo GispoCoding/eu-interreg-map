@@ -29,11 +29,11 @@ Basemap is from [Carto CDN](https://carto.com/basemaps/), URL for the map: https
 
 ## Used software
 
-The map is created with QGIS and its qgis2web plugin on OpenLayers.
+The map is created with QGIS and its qgis2web plugin on OpenLayers. Basemap CartoDB via QuickMapServices
 
 ## Licence
 
-The map is licenced with the [MIT licence](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt). 
+The map is licenced with the [GNU General Public license version 2.0](https://github.com/GispoCoding/eu-interreg-map/blob/main/LICENSE). 
 
 ## And finally... The Map
 
