@@ -29,7 +29,7 @@ Basemap is from [CartoCD] via QGIS QMS plugin.
 
 ## Used software
 
-The map is created with QGIS and its qgis2web plugin on OpenLayers. Basemap CartoDB via QuickMapServices
+The map is created with QGIS and its qgis2web plugin on OpenLayers. Basemap is loaded using the QuickMapServices plugin.
 
 ## Licence
 
