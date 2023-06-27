@@ -37,4 +37,4 @@ The map is licenced with the [GNU General Public License version 2.0](https://gi
 
 ## And finally... The Map
 
-Interactive map: https://gispocoding.github.io/eu-interreg-map/map.html
+Interactive map: [https://gispocoding.github.io/eu-interreg-map/map.html](https://gispocoding.github.io/eu-interreg-map/map.html)
