@@ -23,7 +23,7 @@ There are three layers on the map displaying the following data by colour and in
 
 ## Data sources
 
-The Interreg data is from the [keep.eu database](https://keep.eu).  
+The Interreg data is from the [keep.eu database](https://keep.eu). Data download date 29.5.2023.
 Statistical NUTS regions are from [Eurostat](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/nuts).  
 Basemap is from [CartoCD] via QGIS QMS plugin.
 
